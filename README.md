@@ -22,7 +22,7 @@ que realmente marcan la diferencia.
 
 <!-- BADGES -->
 <img src="https://img.shields.io/badge/📍_México-0d1117?style=for-the-badge&logoColor=white" alt="México"/>
-<img src="https://img.shields.io/badge/🎂_18_años-0d1117?style=for-the-badge&logoColor=white" alt="18 años"/>
+<img src="https://img.shields.io/badge/🎂_21_años-0d1117?style=for-the-badge&logoColor=white" alt="21 años"/>
 <img src="https://img.shields.io/badge/🕐_GMT--6-0d1117?style=for-the-badge&logoColor=white" alt="GMT-6"/>
 <img src="https://img.shields.io/badge/🔴_Disponible_para_proyectos-0d1117?style=for-the-badge&logoColor=white" alt="Disponible"/>
 
@@ -94,14 +94,10 @@ que realmente marcan la diferencia.
 <h2 align="center">⚡ Actualmente</h2>
 
 <div align="center">
-
-```text
-🎓 Aprendiendo nuevas tecnologías
-🚀 Construyendo proyectos increíbles
-🎨 Mejorando UI/UX cada día
-☕ Status: Café ☕ + Código 💻
-```
-
+  🎓 Aprendiendo nuevas tecnologías <br/>
+  🚀 Construyendo proyectos increíbles <br/>
+  🎨 Mejorando UI/UX cada día <br/>
+  💼 Trabajando en mi propia empresa <a href="https://avorainc.com">AvoraInc</a>
 </div>
 
 ---
@@ -115,15 +111,6 @@ que realmente marcan la diferencia.
   </a>
   <a href="https://github.com/DavidCM28/plataforma-educativa">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DavidCM28&repo=plataforma-educativa&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Plataforma Educativa"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/DavidCM28/alca-quiz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DavidCM28&repo=alca-quiz&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Alca Quiz"/>
-  </a>
-  <a href="https://github.com/DavidCM28/MyOnlyLove">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DavidCM28&repo=MyOnlyLove&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="MyOnlyLove"/>
   </a>
 </div>
 
