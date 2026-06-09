@@ -1,5 +1,5 @@
-<!-- HERO BANNER with text overlay -->
-<img src="hero-banner.svg" alt="Hero Banner" width="100%"/>
+<!-- HERO BANNER -->
+<img src="header-banner.png" alt="Hero Banner" width="100%"/>
 
 ---
 
@@ -102,10 +102,10 @@
   <a href="https://github.com/DavidCM28">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/brayan-david-casas-morales-33384b3b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:">
+  <a href="mailto:davidcm281104@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
