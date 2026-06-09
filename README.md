@@ -45,8 +45,8 @@
 <h2 align="center">📊 Estadísticas de GitHub</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidCM28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&locale=es" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCM28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&locale=es" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=DavidCM28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&locale=es" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=DavidCM28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&locale=es" alt="Top Languages" height="180"/>
 </div>
 
 <br/>
