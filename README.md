@@ -1,24 +1,15 @@
-<div align="center">
-
-<!-- HEADER BANNER -->
-<img src="header-banner.png" alt="Header Banner" width="100%"/>
-
-<!-- TYPING SVG -->
-<br/>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="55%" valign="middle">
 
 # ¡Hola! Soy David 👋
-
 ### *Transformo ideas en soluciones digitales*
 
-<br/>
-
 <p>
-Estudiante de Ingeniería en Desarrollo de Software apasionado por el<br/>
-desarrollo web, el diseño de experiencias y la creación de sistemas<br/>
+Estudiante de Ingeniería en Desarrollo de Software apasionado por el
+desarrollo web, el diseño de experiencias y la creación de sistemas
 que realmente marcan la diferencia.
 </p>
-
-<br/>
 
 <!-- BADGES -->
 <img src="https://img.shields.io/badge/📍_México-0d1117?style=for-the-badge&logoColor=white" alt="México"/>
@@ -26,7 +17,15 @@ que realmente marcan la diferencia.
 <img src="https://img.shields.io/badge/🕐_GMT--6-0d1117?style=for-the-badge&logoColor=white" alt="GMT-6"/>
 <img src="https://img.shields.io/badge/🔴_Disponible_para_proyectos-0d1117?style=for-the-badge&logoColor=white" alt="Disponible"/>
 
-</div>
+</td>
+<td width="45%" align="right" valign="middle">
+
+<!-- HERO IMAGE -->
+<img src="header-banner.png" alt="Hero Banner" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
