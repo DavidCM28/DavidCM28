@@ -78,14 +78,67 @@
 <!-- FEATURED PROJECTS -->
 <h2 align="center">🚀 Proyectos Destacados</h2>
 
-<div align="center">
-  <a href="https://github.com/DavidCM28/Avora-Web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DavidCM28&repo=Avora-Web&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Avora-Web"/>
-  </a>
-  <a href="https://github.com/DavidCM28/plataforma-educativa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DavidCM28&repo=plataforma-educativa&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Plataforma Educativa"/>
-  </a>
-</div>
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+  <tr>
+    <!-- CARD 1: Avora-Web -->
+    <td width="33.3%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px; background: #0d1117;">
+      <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px;">
+        📁 Avora-Web 
+        <img src="https://img.shields.io/badge/Destacado-238636?style=flat-square" alt="Destacado"/>
+      </h3>
+      <p><font size="2" color="#8b949e">Sitio web corporativo para Avora Arquitectura. Landing page moderna con animaciones y diseño responsivo.</font></p>
+      <br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+      <br/><br/>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td><font size="2" color="#8b949e">⭐ 12 &nbsp;&nbsp; 🍴 5</font></td>
+          <td align="right"><a href="https://github.com/DavidCM28/Avora-Web"><font size="2" color="#58a6ff">Ver repositorio ➔</font></a></td>
+        </tr>
+      </table>
+    </td>
+    <!-- CARD 2: plataforma-educativa -->
+    <td width="33.3%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px; background: #0d1117;">
+      <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px;">
+        📁 plataforma-educativa 
+        <img src="https://img.shields.io/badge/Educación-8a2be2?style=flat-square" alt="Educación"/>
+      </h3>
+      <p><font size="2" color="#8b949e">Plataforma educativa con panel de administración, gestión de cursos, usuarios y evaluaciones.</font></p>
+      <br/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white" alt=".NET"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+      <br/><br/>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td><font size="2" color="#8b949e">⭐ 9 &nbsp;&nbsp; 🍴 3</font></td>
+          <td align="right"><a href="https://github.com/DavidCM28/plataforma-educativa"><font size="2" color="#58a6ff">Ver repositorio ➔</font></a></td>
+        </tr>
+      </table>
+    </td>
+    <!-- CARD 3: ECM-Diesel -->
+    <td width="33.3%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px; background: #0d1117;">
+      <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px;">
+        🛒 ECM-Diesel 
+        <img src="https://img.shields.io/badge/E--commerce-007acc?style=flat-square" alt="E-commerce"/>
+      </h3>
+      <p><font size="2" color="#8b949e">Tienda en línea para venta y reparación de ECM/ECU. Incluye carrito, pagos y panel de usuario.</font></p>
+      <br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+      <br/><br/>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td><font size="2" color="#8b949e">⭐ 7 &nbsp;&nbsp; 🍴 2</font></td>
+          <td align="right"><a href="https://github.com/DavidCM28/ECM-Diesel"><font size="2" color="#58a6ff">Ver repositorio ➔</font></a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/DavidCM28?tab=repositories">
